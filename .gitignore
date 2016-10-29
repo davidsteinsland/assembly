@@ -1,0 +1,11 @@
+# Object files
+*.o
+
+.depend
+
+# executables
+fib
+main
+main-x64
+testsuite
+x86-isolated/hello
